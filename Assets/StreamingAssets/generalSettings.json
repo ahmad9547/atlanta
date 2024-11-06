@@ -1,0 +1,8 @@
+{
+  "Version": "9.1.0",
+  "ShowDebugInfo": true,
+  "ContentFolderUrl": "https://vrc-dev-instance.s3.eu-central-1.amazonaws.com/content/",
+  "AmphitheatreWatchersEnabled": false,
+  "GoBackOnErrorDefaultUrl": "https://atlanta-meta-world-production.up.railway.app/",
+  "AddressablesBundlesUrl": "https://atlantatunnel.sfo3.digitaloceanspaces.com"
+}

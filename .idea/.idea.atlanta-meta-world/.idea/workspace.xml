@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f9d4df0-2765-472c-ac66-405047b36741" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Atlanta-UI/Atlanta-UI/Font/Montserrat-Medium SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Atlanta-UI/Atlanta-UI/Font/Montserrat-Medium SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LoadTunnel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LoadTunnel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New/Mtl/Pillar_New.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New/Mtl/Pillar_New.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New/Prefab/Full_Tunnel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New/Prefab/Full_Tunnel.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New/Prefab/PIllars.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New/Prefab/PIllars.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintCore/Required/Scripts/CwPaintableTexture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintCore/Required/Scripts/CwPaintableTexture.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DataManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DataManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TunnelLoaded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TunnelLoaded.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/build_info" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/build_info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/472e71cd4b2b4213bba68d37b754a836144200/42/973d6037/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/834b2ded5dad441e8c7a4287897d63c746ac00/a5/1db20229/Buffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/834b2ded5dad441e8c7a4287897d63c746ac00/b4/f9e1be73/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/834b2ded5dad441e8c7a4287897d63c746ac00/bb/b2c66ca1/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9b3ef644d3774d8c942ee6398fc3ab744000/e0/24c4597e/ImageConversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AhmadData/Scripts/PaintData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nVhPIIA4N8foDgWcd6LS64GS1W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Unity Versions\2022.3.12f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath F:\dev\unity\atlanta-meta-world -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="F:\dev\unity\atlanta-meta-world" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11284">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="11284" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9d4df0-2765-472c-ac66-405047b36741" name="Changes" comment="" />
+      <created>1729064127948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729064127948</updated>
+      <workItem from="1729064178505" duration="1083000" />
+      <workItem from="1729066482964" duration="6768000" />
+      <workItem from="1729147788109" duration="3335000" />
+      <workItem from="1729235831492" duration="1421000" />
+      <workItem from="1729488121126" duration="3609000" />
+      <workItem from="1729498036229" duration="1373000" />
+      <workItem from="1729504005318" duration="800000" />
+      <workItem from="1729512779614" duration="3748000" />
+      <workItem from="1729676823071" duration="7885000" />
+      <workItem from="1729746133425" duration="12326000" />
+      <workItem from="1729850062984" duration="4892000" />
+      <workItem from="1730091848241" duration="18497000" />
+      <workItem from="1730178791039" duration="1259000" />
+      <workItem from="1730185283737" duration="2804000" />
+      <workItem from="1730208947735" duration="808000" />
+      <workItem from="1730265486201" duration="9852000" />
+      <workItem from="1730353359640" duration="10994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+namespace Metaverse.Teleport.Enums
+{
+    public enum GWCCBuildingATeleportPoint
+    {
+        A1,
+        A3,
+        A4,
+        BuildingAMainEntrance,
+        BuildingAConnectorAB,
+        ExhibitHallA1,
+        ExhibitHallA2,
+        ExhibitHallA3,
+        A301,
+        A302303,
+        A304305,
+        A307,
+        A309,
+        A310,
+        A311312,
+        A313314,
+        A315316,
+        A401402,
+        A403404,
+        A405406,
+        A407408,
+        A409410,
+        A411412,
+        SidneyMarcusAuditorium,
+        ExecutiveBoardroom
+    }
+}
