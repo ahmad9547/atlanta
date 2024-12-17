@@ -3,7 +3,7 @@ name: Build and Upload to DigitalOcean Spaces
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-upload:
