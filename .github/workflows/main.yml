@@ -1,18 +1,30 @@
-name: Upload Build to DigitalOcean Spaces
+name: Build and Upload to DigitalOcean Spaces
 
 on:
   push:
     branches:
-      - master  # Trigger the workflow on pushes to the main branch
+      - main
 
 jobs:
-  upload-to-spaces:
+  build-and-upload:
     runs-on: ubuntu-latest
 
     steps:
     # Checkout the repository
     - name: Checkout Code
       uses: actions/checkout@v3
+
+    # Install Unity (example using GameCI)
+    - name: Install Unity
+      uses: game-ci/unity-installer@v3
+      with:
+        version: 2023.1.4f1  # Replace with your Unity version
+
+    # Build the Unity project
+    - name: Build Project
+      run: |
+        mkdir Build
+        unity-editor -quit -batchmode -nographics -projectPath ./ -buildTarget WebGL -executeMethod BuildScript.BuildWebGL
 
     # Install AWS CLI
     - name: Install AWS CLI
