@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Atrium
+  m_EditorClassIdentifier: 
+  m_GroupName: Atrium
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7329cae951345854ea93bce67aed0269
+  m_SerializeEntries:
+  - m_GUID: a5f87637ccf1e7b4096c600405bb2691
+    m_Address: Atrium
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9eaa2deaf3e7daf49b902fb99b9dc496, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca59fd5b7f6c6d940927c1c69c70f21b, type: 2}
+    - {fileID: 11400000, guid: da6921df9f252ff41abfc604fa52eeb9, type: 2}

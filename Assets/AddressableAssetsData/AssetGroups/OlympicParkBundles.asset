@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: OlympicParkBundles
+  m_EditorClassIdentifier: 
+  m_GroupName: OlympicParkBundles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a5a831765db4aae448cc6cba7fb59d2a
+  m_SerializeEntries:
+  - m_GUID: b72f74d6ea0806543bf75fe9c7815fd8
+    m_Address: OlympicPark
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9eaa2deaf3e7daf49b902fb99b9dc496, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 52f9e9522d1b7ec40af6977b9f3880c2, type: 2}
+    - {fileID: 11400000, guid: 09211b103bcfb7b4fbd6b47581a6d447, type: 2}

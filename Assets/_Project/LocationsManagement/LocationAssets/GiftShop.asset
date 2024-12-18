@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdedba0fe7b4d045a8225a781296752, type: 3}
+  m_Name: GiftShop
+  m_EditorClassIdentifier: 
+  _locationType: 4
+  _locationReference:
+    m_AssetGUID: 2b95da71bb0a94243b451daa50287bd6
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  _locationFunctionalityPrefab: {fileID: 5166298198186116258, guid: 55ce31ac443c2674ba1d8c2d9009c854, type: 3}
+  _locationMoveSettings: {fileID: 11400000, guid: 73b74c983bcc9dc4585ccfb06f21b745, type: 2}

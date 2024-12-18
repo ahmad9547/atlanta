@@ -1,0 +1,29 @@
+{
+    "MusicClips":
+    [
+        {
+            "Name": "Summertime Magic",
+            "Author": "Childish Gambino",
+            "AudioClipUrl": "playlist/SummertimeMagic.mp3",
+            "AudioClipPreviewUrl": "playlist/SummertimeMagic.png"
+        },
+        {
+            "Name": "Hey Ya!",
+            "Author": "Outkast",
+            "AudioClipUrl": "playlist/HeyYa!.mp3",
+            "AudioClipPreviewUrl": "playlist/HeyYa!.png"
+        },
+        {
+            "Name": "Elevators (Me&You)",
+            "Author": "Outkast",
+            "AudioClipUrl": "playlist/Elevators.mp3",
+            "AudioClipPreviewUrl": "playlist/Elevators.png"
+        },
+        {
+            "Name": "Stuck Like Glue",
+            "Author": "Sugarland",
+            "AudioClipUrl": "playlist/StuckLikeGlue.mp3",
+            "AudioClipPreviewUrl": "playlist/StuckLikeGlue.png"
+        }
+    ]
+}

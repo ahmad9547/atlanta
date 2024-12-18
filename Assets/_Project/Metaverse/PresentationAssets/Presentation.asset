@@ -1,0 +1,368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d19d3a3d73a8a4bb1d6b0e62041016, type: 3}
+  m_Name: Presentation
+  m_EditorClassIdentifier: 
+  _presentationSlides:
+  - rid: 7724238704320708609
+  - rid: 7724238704320708610
+  - rid: 7724238704320708611
+  - rid: 7724238704320708612
+  - rid: 7724238704320708613
+  - rid: 7724238704320708614
+  - rid: 7724238704320708615
+  - rid: 7724238704320708616
+  - rid: 7724238704320708617
+  - rid: 7724238704320708618
+  - rid: 7724238704320708619
+  - rid: 7724238704320708620
+  - rid: 7724238704320708621
+  - rid: 7724238704320708622
+  - rid: 7724238704320708623
+  - rid: 7724238704320708624
+  - rid: 7724238704320708625
+  - rid: 7724238704320708626
+  - rid: 7724238704320708627
+  - rid: 7724238704320708628
+  - rid: 7724238704320708629
+  - rid: 7724238704320708630
+  - rid: 7724238704320708631
+  - rid: 7724238704320708632
+  - rid: 7724238704320708633
+  - rid: 7724238704320708634
+  - rid: 7724238704320708635
+  - rid: 7724238704320708636
+  - rid: 7724238704320708637
+  - rid: 7724238704320708638
+  - rid: 7724238704320708639
+  - rid: 7724238704320708640
+  - rid: 7724238704320708641
+  - rid: 7724238704320708642
+  - rid: 7724238704320708643
+  - rid: 7724238704320708644
+  - rid: 7724238704320708645
+  - rid: 7724238704320708646
+  - rid: 7724238704320708647
+  - rid: 7724238704320708648
+  - rid: 7724238704320708649
+  - rid: 7724238704320708650
+  - rid: 7724238704320708651
+  - rid: 7724238704320708652
+  - rid: 7724238704320708654
+  - rid: 7724238704320708655
+  - rid: 7724238704320708656
+  - rid: 7724238704320708657
+  - rid: 7724238704320708658
+  - rid: 7724238704320708659
+  - rid: 7724238704320708660
+  - rid: 7724238704320708661
+  - rid: 7724238704320708662
+  - rid: 7724238704320708663
+  - rid: 7724238704320708664
+  - rid: 7724238704320708665
+  - rid: 7724238792985411584
+  - rid: 7724238704320708667
+  - rid: 7724238704320708668
+  - rid: 7724238704320708669
+  - rid: 7724238704320708670
+  - rid: 7724238704320708671
+  - rid: 7724238704320708672
+  - rid: 7724238704320708673
+  - rid: 7724238704320708674
+  - rid: 7724238704320708675
+  references:
+    version: 2
+    RefIds:
+    - rid: 7724238704320708609
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 848186253a3671344b27692f453f2ffa, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide1.mp4
+    - rid: 7724238704320708610
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 9664c8b92bd4ac349b3c1fc1568eb834, type: 3}
+    - rid: 7724238704320708611
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 31c13fec081988242bd41ac6088d4ac9, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide3.mp4
+    - rid: 7724238704320708612
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 362aeb406bde16b468e97a2a61b46a0a, type: 3}
+    - rid: 7724238704320708613
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 00bd5c23d61f4c3448f9627cbd245e1c, type: 3}
+    - rid: 7724238704320708614
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 733b6eaae5bbeb54e8ddcd5ccfd2b2d9, type: 3}
+    - rid: 7724238704320708615
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 50fc7d7fb1cc76d498aafe35cc2af99a, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide7.mp4
+    - rid: 7724238704320708616
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 43399339689352f4ab3eda623ca2de86, type: 3}
+    - rid: 7724238704320708617
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: d38933c5e0526834aa9a483f1ac76f9a, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide9.mp4
+    - rid: 7724238704320708618
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: b1fc254ccc623a4429bfe981b6f98fca, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide10.mp4
+    - rid: 7724238704320708619
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 35c027e4535d29940b87e89a8ce345a9, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide11.mp4
+    - rid: 7724238704320708620
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 50de4713f9fa6474280ea21a760a5cae, type: 3}
+    - rid: 7724238704320708621
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: edda82d4981a4e24195d18a7eb0d7f14, type: 3}
+    - rid: 7724238704320708622
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: e4a9dfa59a038db4b9fd8f8ffd5d181f, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide14.mp4
+    - rid: 7724238704320708623
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: cf2ce813313162d4fa9e733753a09fd1, type: 3}
+    - rid: 7724238704320708624
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: fb8d734f60a8fe844a9104e1fbcbf4d5, type: 3}
+    - rid: 7724238704320708625
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: b50b23b39bb30dd4cb594d10531ea95e, type: 3}
+    - rid: 7724238704320708626
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 31b41eed670e7464ba57ff102f378421, type: 3}
+    - rid: 7724238704320708627
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 51835318239aa184cac0272fd6705eb0, type: 3}
+    - rid: 7724238704320708628
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 7d47f4a65e267954d8591566cf6863f2, type: 3}
+    - rid: 7724238704320708629
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 57ec5153f7467d044970964f7cedf5e3, type: 3}
+    - rid: 7724238704320708630
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: a68121a399395a24e9dd2ce17ba51030, type: 3}
+    - rid: 7724238704320708631
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: f00137c8fe04a26459a3ff95071bf5a2, type: 3}
+    - rid: 7724238704320708632
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: c376541963b20714ea17822000f5ba92, type: 3}
+    - rid: 7724238704320708633
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: fd4034f7c1dbfe84b94421cad18a6e94, type: 3}
+    - rid: 7724238704320708634
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: e4d5b08ba9fa38949ae16a3fd6602976, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide26.mp4
+    - rid: 7724238704320708635
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: b6c824e1449a64a4c96ef0becdfaf670, type: 3}
+    - rid: 7724238704320708636
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 0f25a48c22d47ee4a85562606ef795b2, type: 3}
+    - rid: 7724238704320708637
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 6416789ab5a202744a13f8126d4ae9bf, type: 3}
+    - rid: 7724238704320708638
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: d601a96b2f93aad4397c95360c2c848a, type: 3}
+    - rid: 7724238704320708639
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: cd05838cc43626e48a2833fc115e3fbc, type: 3}
+    - rid: 7724238704320708640
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 858d6a537b5dd83428bf0a7855d69f4a, type: 3}
+    - rid: 7724238704320708641
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 38c90895c5e1b5248a2d668a6585d561, type: 3}
+    - rid: 7724238704320708642
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 3f9e022c36940a249bec5f950e660222, type: 3}
+    - rid: 7724238704320708643
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 9b623e855fd98d147b102c1d836f405a, type: 3}
+    - rid: 7724238704320708644
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: e5e452d2d55435a4187b6e9d514c8ac1, type: 3}
+    - rid: 7724238704320708645
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: a7eda1e272c74374398d0759cd046be1, type: 3}
+    - rid: 7724238704320708646
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 0de75fa90ce3ea84eb0b44ddbaa79be9, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide38.mp4
+    - rid: 7724238704320708647
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 8b47986cfa8a15843baf20f98320366a, type: 3}
+    - rid: 7724238704320708648
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 4afca7847b1df294e9512a3bda8cc3c1, type: 3}
+    - rid: 7724238704320708649
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 95d7858afea1cac45b61c3df02abf879, type: 3}
+    - rid: 7724238704320708650
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 789844e08f5feb248a76d377f25eb504, type: 3}
+    - rid: 7724238704320708651
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 63bcadeeb2ce0394da383f7ffe2ce7d8, type: 3}
+    - rid: 7724238704320708652
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 120ef887dcf25db4ab6f93a4abad952b, type: 3}
+    - rid: 7724238704320708654
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 8fa9edf28fca91445bb00606fcd25a2b, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide45.mp4
+    - rid: 7724238704320708655
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: ae9b48a7422aefd43b0b2f8c36c475f1, type: 3}
+    - rid: 7724238704320708656
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 53981bd4df9b342408893e4d53ed92f0, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide47.mp4
+    - rid: 7724238704320708657
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 9158300671713f24aa973a0eb12d6f5f, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide48.mp4
+    - rid: 7724238704320708658
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 087fca2915cef15498d3578f90808200, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide49.mp4
+    - rid: 7724238704320708659
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 5d118e1fe9e087e4f8cc73ab93af99e9, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide50.mp4
+    - rid: 7724238704320708660
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 8204b144095b21648ae72c0c9ac40fc3, type: 3}
+    - rid: 7724238704320708661
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 2ca8ce03e7779fe439430b83038cd89c, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide52.mp4
+    - rid: 7724238704320708662
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 0dfcd0748643e5148bbe0b548379f066, type: 3}
+    - rid: 7724238704320708663
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: ddced0293ce78824d869d2edd73c6a98, type: 3}
+    - rid: 7724238704320708664
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: cd355ef2ac8d4724081e29ab4e4537d4, type: 3}
+    - rid: 7724238704320708665
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: fa60fb56ee2129043baae374af4cab0c, type: 3}
+    - rid: 7724238704320708667
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 490b61036a2cd5a41b5630c15f1521af, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide58.mp4
+    - rid: 7724238704320708668
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: b9aeb516ebed8ff48b7af9ac79045cd9, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide59.mp4
+    - rid: 7724238704320708669
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: 016381d09524cb34d9e21aecfda9175d, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide60.mp4
+    - rid: 7724238704320708670
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: bab2bbf0850e60a48998144c188041ce, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide61.mp4
+    - rid: 7724238704320708671
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 454a6842e3f035446b636b5014139179, type: 3}
+    - rid: 7724238704320708672
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: b61859884fe40814086142bf58caad84, type: 3}
+    - rid: 7724238704320708673
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 3c7e0cedff8599244bf3166854a3a886, type: 3}
+    - rid: 7724238704320708674
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: 4c24afb64aea4f344847c0a8860e09aa, type: 3}
+    - rid: 7724238704320708675
+      type: {class: ImageSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _slideTexture: {fileID: 2800000, guid: a7be641c019083f449ac56a27da70d67, type: 3}
+    - rid: 7724238792985411584
+      type: {class: VideoSlide, ns: Metaverse.PresentationModule.Slides, asm: Assembly-CSharp}
+      data:
+        _videoPreview: {fileID: 21300000, guid: b1b4f549fcc5b894bb00a037b7680d86, type: 3}
+        _videoUrl: https://vrc-stage.s3.amazonaws.com/Content/slide57.mp4

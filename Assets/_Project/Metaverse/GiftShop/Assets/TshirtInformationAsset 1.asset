@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c386bf63e3bc04e8c77b08933a4bf5, type: 3}
+  m_Name: TshirtInformationAsset 1
+  m_EditorClassIdentifier: 
+  _name: Atlanta T-shirt
+  _tshirtItemsInformation:
+  - _id: 6
+    _name: Atlanta T-shirt
+    _description: Atlanta T-shirt
+    _price: 25
+    _previewImage: {fileID: 21300000, guid: a15719cdf6bdfd348bfeee9e0235cdef, type: 3}
+  - _id: 0
+    _name: Atlanta T-shirt
+    _description: Atlanta T-shirt
+    _price: 25
+    _previewImage: {fileID: 21300000, guid: 202727ecb00f30e42b6c5523e661bfa8, type: 3}
+  - _id: 7
+    _name: Atlanta T-shirt
+    _description: Atlanta T-shirt
+    _price: 25
+    _previewImage: {fileID: 21300000, guid: 47d6dfabc6b018e41bf5019818f8bd79, type: 3}
